@@ -1,0 +1,15 @@
+{
+  "name": "genpark-semantic-chunk-boundary-sliding-window-skill",
+  "version": "1.0.0",
+  "description": "Sentence-boundary aware sliding window chunker with dynamic token overlap and duplicate block deduplication.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "sliding-window",
+    "chunking",
+    "semantic-boundary",
+    "overlap",
+    "genpark",
+    "mcp"
+  ]
+}
